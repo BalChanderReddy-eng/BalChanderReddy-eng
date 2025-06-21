@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BalchanderReddy-eng</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=balchanderreddy-eng&label=Profile%20views&color=0e75b6&style=flat" alt="balchanderreddy-eng" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=balchanderreddy-eng&label=Profile%20views&color=red&style=flat" alt="balchanderreddy-eng" /> </p>
 
 - 🔭 I’m currently working on **Cold Email generator for job applicants using Llama**
 
