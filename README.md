@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm BalchanderReddy-eng</h1>
+<h1 align="center">Hi 👋, I'm BalchanderReddy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balchanderreddy-eng&label=Profile%20views&color=red&style=flat" alt="balchanderreddy-eng" /> </p>
