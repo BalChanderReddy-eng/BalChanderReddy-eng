@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  🚀 Working on <b>AI & WhatsApp SaaS Platforms</b><br/>
+  🚀 Working on <b>AI & SaaS Platforms</b><br/>
   🌱 Learning <b>RAG (Retrieval-Augmented Generation)</b><br/>
   💬 Ask me about <b>React, AI, Real-time Systems</b><br/>
   📫 Reach me at <b>balchanderreddyyedla@gmail.com</b>
